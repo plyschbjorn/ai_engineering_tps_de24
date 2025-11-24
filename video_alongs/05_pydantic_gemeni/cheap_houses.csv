@@ -1,0 +1,10 @@
+price,monthly_fee,living_area,number_rooms,type,address
+4100000,3300,130.0,4,house,"Studentvägen 19, 752 34 Uppsala"
+3800000,2900,115.0,4,house,"Kalkstensvägen 5, 224 78 Lund"
+4900000,3950,145.0,5,house,"Eklandagatan 55, 412 61 Göteborg"
+3200000,2800,125.0,4,house,"Skolgatan 8, 903 25 Umeå"
+4800000,3700,140.0,5,house,"Luthagsesplanaden 33, 752 25 Uppsala"
+3500000,2900,120.0,4,house,"Mariehemsvägen 7, 906 54 Umeå"
+4500000,3400,135.0,5,house,"Stenhuggarevägen 9, 226 41 Lund"
+3900000,3100,128.0,5,house,"Pilgatan 1, 723 48 Västerås"
+4100000,3250,133.0,5,house,"Flogstavägen 65, 752 73 Uppsala"
