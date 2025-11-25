@@ -15,6 +15,17 @@ class Book(BaseModel):
     author: str
     year: int = Field(gt = 1000, lt = 2026, description="Year of when book is published")
 
+    model_config = {
+        "json_schema_extra": {
+            "example": {
+                "id": 11,
+                "title": "Another Book",
+                "author": "T.P.S",
+                "year": 1977,
+            }
+        }
+    }
+
 class Library(BaseModel):
     name: str
     books: list[Book]
